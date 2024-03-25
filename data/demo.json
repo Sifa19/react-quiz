@@ -1,0 +1,106 @@
+https://opentdb.com/api.php?amount=10&category=18&type=multiple
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science: Computers",
+      "question": "Which of these is not a key value of Agile software development?",
+      "correct_answer": "Comprehensive documentation",
+      "incorrect_answers": [
+        "Individuals and interactions",
+        "Customer collaboration",
+        "Responding to change"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science: Computers",
+      "question": "HTML is what type of language?",
+      "correct_answer": "Markup Language",
+      "incorrect_answers": [
+        "Macro Language",
+        "Programming Language",
+        "Scripting Language"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science: Computers",
+      "question": "The acronym &quot;RIP&quot; stands for which of these?",
+      "correct_answer": "Routing Information Protocol",
+      "incorrect_answers": [
+        "Runtime Instance Processes",
+        "Regular Interval Processes",
+        "Routine Inspection Protocol"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science: Computers",
+      "question": "Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?",
+      "correct_answer": "Heartbleed",
+      "incorrect_answers": ["Shellshock", "Corrupted Blood", "Shellscript"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": ".at is the top-level domain for what country?",
+      "correct_answer": "Austria",
+      "incorrect_answers": ["Argentina", "Australia", "Angola"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science: Computers",
+      "question": "What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?",
+      "correct_answer": "Coffee Lake",
+      "incorrect_answers": ["Sandy Bridge", "Skylake", "Broadwell"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science: Computers",
+      "question": "What does CPU stand for?",
+      "correct_answer": "Central Processing Unit",
+      "incorrect_answers": [
+        "Central Process Unit",
+        "Computer Personal Unit",
+        "Central Processor Unit"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science: Computers",
+      "question": "What type of sound chip does the Super Nintendo Entertainment System (SNES) have?",
+      "correct_answer": "ADPCM Sampler",
+      "incorrect_answers": [
+        "FM Synthesizer",
+        "Programmable Sound Generator (PSG)",
+        "PCM Sampler"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science: Computers",
+      "question": "Dutch computer scientist Mark Overmars is known for creating which game development engine?",
+      "correct_answer": "Game Maker",
+      "incorrect_answers": ["Stencyl", "Construct", "Torque 2D"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "Which of these people was NOT a founder of Apple Inc?",
+      "correct_answer": "Jonathan Ive",
+      "incorrect_answers": ["Steve Jobs", "Ronald Wayne", "Steve Wozniak"]
+    }
+  ]
+}
